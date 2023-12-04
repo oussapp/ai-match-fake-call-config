@@ -1,0 +1,6 @@
+{
+  "app_name": "Ai Match Fake Call",
+  "ad_unit_id": "c0a94715b8e2d0fa",
+  "interstitial_ad_unit_id": "6b084fa83207b91c",
+  "applovin_sdk_key": "79euS0XBwLE3nCWyiElgUL2xlapMqEg9mvcgCdLe0r2TeiJEEumlGynZA6maWv47V7PpT9m9v_LneGe5qw0XAQ"
+}
